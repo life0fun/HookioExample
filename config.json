@@ -1,0 +1,22 @@
+{
+  "sites": [
+    {
+      "name": "Google",
+      "url": "http://google.com/",
+      "errorCount": 0,
+      "attempts": 157
+    },
+    {
+      "name": "Github",
+      "url": "http://www.github.com/",
+      "errorCount": 0,
+      "attempts": 157
+    },
+    {
+      "name": "loalhost",
+      "url": "http://localhost/",
+      "errorCount": 0,
+      "attempts": 157
+    }
+  ]
+}
